@@ -1,9 +1,18 @@
 # blackServer
 Backend on express and mongodb
 
-- npm install
-    Allows you to install the necessary backend files
+## Installing modules
 
-- npm start
-    Start the server
+```
+    npm install
+```   
+    * Allows you to install the necessary backend files
+
+## Starting the server
+
+```
+    npm start
+```
+
+    * Start the server
 
