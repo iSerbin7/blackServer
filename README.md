@@ -6,13 +6,12 @@ Backend on express and mongodb
 ```
     npm install
 ```   
-    * Allows you to install the necessary backend files
+* Allows you to install the necessary backend files
 
 ## Starting the server
 
 ```
     npm start
 ```
-
-    * Start the server
+* Start the server
 
